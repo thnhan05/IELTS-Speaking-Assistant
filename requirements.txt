@@ -1,0 +1,1 @@
+pip install gtts SpeechRecognition pyaudio google-generativeai pillow
